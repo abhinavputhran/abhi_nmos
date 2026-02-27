@@ -11,7 +11,7 @@ abhi_nmos/
 ├── graphs/                     # processed data graphs
 ├── keithley generated graphs/  # jpgs
 ├── requirements.txt            # dependencies
-├── CALCULATIONS.md              # calculation notes (how Vth, Ion, Roff, etc. are derived)
+├── CALCULATIONS.md             # calculation notes (how Vth, Ion, Roff, etc. are derived)
 └── README.md
 ```
 
