@@ -78,6 +78,3 @@ Details (which columns we read, which formulas we use) are in `docs/CALCULATIONS
 
 Each `.xls` has a **Data** sheet: columns in groups of four — DrainI(k), DrainV(k), GateI(k), GateV(k) for each curve. We only use those four; chip/nmos/pattern come from the filename.
 
-## License
-
-Use it as you like.
