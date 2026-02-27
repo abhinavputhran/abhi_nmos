@@ -8,10 +8,10 @@ Scripts to process IV data from NMOS transistor probing. I had 94 `.xls` files (
 abhi_nmos/
 ├── data/                       # put your .xls files here
 ├── src/                        # all Python scripts
-├── docs/                       # calculation notes (how Vth, Ion, Roff, etc. are derived)
 ├── graphs/                     # processed data graphs
-├── keithley generated graphs/ 
-├── requirements.txt
+├── keithley generated graphs/  # jpgs
+├── requirements.txt            # dependencies
+├── CALCULATIONS.md              # calculation notes (how Vth, Ion, Roff, etc. are derived)
 └── README.md
 ```
 
